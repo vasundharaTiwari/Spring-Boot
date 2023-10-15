@@ -10,6 +10,9 @@ public class BookManagementApplication {
         SpringApplication.run(BookManagementApplication.class, args);
         System.out.println("hello");
         System.out.println("git test");
+
+        System.out.println("First Phase");
+
     }
 
 }
